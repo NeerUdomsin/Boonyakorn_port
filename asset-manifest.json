@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Boonyakorn_port/static/css/main.f855e6bc.css",
+    "main.js": "/Boonyakorn_port/static/js/main.e7ba98a8.js",
+    "static/js/453.acca0757.chunk.js": "/Boonyakorn_port/static/js/453.acca0757.chunk.js",
+    "index.html": "/Boonyakorn_port/index.html",
+    "main.f855e6bc.css.map": "/Boonyakorn_port/static/css/main.f855e6bc.css.map",
+    "main.e7ba98a8.js.map": "/Boonyakorn_port/static/js/main.e7ba98a8.js.map",
+    "453.acca0757.chunk.js.map": "/Boonyakorn_port/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e7ba98a8.js"
+  ]
+}
